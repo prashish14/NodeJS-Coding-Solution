@@ -7,7 +7,7 @@ Please follow these instructions
         i. DesignDoc and Screenshots 
         ii. rest-api 
 
-3.) Inside "DesignDoc anf Screenshots" , 
+3.) Inside "DesignDoc anf Screenshots" -:
      
     i. Please find screenshots for success and fail scenarios. 
                
