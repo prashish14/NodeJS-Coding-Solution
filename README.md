@@ -2,6 +2,7 @@
 Please follow these instructions 
 
 1.) Clone this  repo 
+
 2.) There are two folders - 
         i. DesignDoc and Screenshots 
         ii. rest-api 
