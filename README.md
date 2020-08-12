@@ -8,8 +8,10 @@ Please follow these instructions
         ii. rest-api 
 
 3.) Inside "DesignDoc anf Screenshots" , 
-               i. Please find screenshots for success and fail scenarios. 
-              ii. Please find  technical approach , project structure, steps to run the code details in DesignDocument.txt 
+     
+    i. Please find screenshots for success and fail scenarios. 
+               
+   ii. Please find  technical approach , project structure, steps to run the code details in DesignDocument.txt 
 
 4.) Inside "rest-api" folder, please find the source code 
 
