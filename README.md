@@ -1,7 +1,7 @@
 # NodeJS-Coding-Solution
 Please follow these instructions 
 
-1.) Clone this  repo 
+1.) Clone this  repo and run the command "npm install" to install node dependencies.
 
 2.) There are two folders - 
         i. DesignDoc and Screenshots 
@@ -12,6 +12,7 @@ Please follow these instructions
     i. Please find screenshots for success and fail scenarios. 
                
    ii. Please find  technical approach , project structure, steps to run the code details in DesignDocument.txt 
+
 
 4.) Inside "rest-api" folder, please find the source code 
 
